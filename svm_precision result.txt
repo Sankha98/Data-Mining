@@ -1,0 +1,305 @@
+1st Dataset(Haberman.csv):--->
+
+Ultimate Accuracy:--->  0.8064516129032258
+
+Actual Specificity:  0.9230769230769231
+
+Overall Sensitivity:  0.2
+
+Overall Precision:  0.3333333333333333
+
+Ovrall F-measure:  0.25
+
+Ultimate Accuracy:--->  1.4838709677419355
+
+Actual Specificity:  0.9523809523809523
+
+Overall Sensitivity:  0.30000000000000004
+
+Overall Precision:  0.5
+
+Ovrall F-measure:  0.625
+
+Ultimate Accuracy:--->  2.193548387096774
+
+Actual Specificity:  0.9090909090909091
+
+Overall Sensitivity:  0.5222222222222223
+
+Overall Precision:  0.5
+
+Ovrall F-measure:  1.1358695652173914
+
+Ultimate Accuracy:--->  2.935483870967742
+
+Actual Specificity:  0.9545454545454546
+
+Overall Sensitivity:  0.7444444444444445
+
+Overall Precision:  0.6666666666666666
+
+Ovrall F-measure:  1.8392816387082052
+
+Ultimate Accuracy:--->  3.6129032258064515
+
+Actual Specificity:  0.8181818181818182
+
+Overall Sensitivity:  1.0777777777777777
+
+Overall Precision:  0.42857142857142855
+
+Ovrall F-measure:  2.4525587725332842
+
+Ultimate Accuracy:--->  4.387096774193548
+
+Actual Specificity:  0.9166666666666666
+
+Overall Sensitivity:  1.3634920634920635
+
+Overall Precision:  0.5
+
+Ovrall F-measure:  3.1842453142709335
+
+Ultimate Accuracy:--->  5.153763440860215
+
+Actual Specificity:  0.9090909090909091
+
+Overall Sensitivity:  1.7384920634920635
+
+Overall Precision:  0.6
+
+Ovrall F-measure:  4.076354596470153
+
+Ultimate Accuracy:--->  5.720430107526881
+
+Actual Specificity:  0.9375
+
+Overall Sensitivity:  1.8813492063492063
+
+Overall Precision:  0.6666666666666666
+
+Ovrall F-measure:  5.060832611317269
+
+Ultimate Accuracy:--->  6.4537634408602145
+
+Actual Specificity:  0.9565217391304348
+
+Overall Sensitivity:  1.8813492063492063
+
+Overall Precision:  0.0
+
+Ovrall F-measure:  5.060832611317269
+
+Ultimate Accuracy:--->  7.320430107526882
+
+Actual Specificity:  0.9629629629629629
+
+Overall Sensitivity:  1.8813492063492063
+
+Overall Precision:  0.0
+
+Ovrall F-measure:  5.060832611317269
+
+2nd Dataset(wine.csv):--->
+
+Ultimate Accuracy:--->  1.0
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  1.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  1.0
+
+Ultimate Accuracy:--->  2.0
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  2.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  2.333333333333333
+
+Ultimate Accuracy:--->  2.9444444444444446
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  3.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  3.833333333333333
+
+Ultimate Accuracy:--->  3.9444444444444446
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  4.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  5.433333333333334
+
+Ultimate Accuracy:--->  4.944444444444445
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  5.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  7.1000000000000005
+
+Ultimate Accuracy:--->  5.888888888888889
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  6.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  8.814285714285715
+
+Ultimate Accuracy:--->  6.888888888888889
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  7.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  10.564285714285715
+
+Ultimate Accuracy:--->  7.888888888888889
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  8.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  12.342063492063492
+
+Ultimate Accuracy:--->  8.830065359477125
+
+Actual Specificity:  0.8333333333333334
+
+Overall Sensitivity:  9.0
+
+Overall Precision:  0.8888888888888888
+
+Ovrall F-measure:  13.96004102015338
+
+Ultimate Accuracy:--->  9.830065359477125
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  10.0
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  15.778222838335198
+
+3rd Dataset(bcw.csv):--->
+
+Ultimate Accuracy:--->  0.9710144927536232
+
+Actual Specificity:  0.9795918367346939
+
+Overall Sensitivity:  0.95
+
+Overall Precision:  0.95
+
+Ovrall F-measure:  0.9500000000000001
+
+Ultimate Accuracy:--->  1.927536231884058
+
+Actual Specificity:  0.9545454545454546
+
+Overall Sensitivity:  1.91
+
+Overall Precision:  0.9230769230769231
+
+Ovrall F-measure:  2.194637523757806
+
+Ultimate Accuracy:--->  2.884057971014493
+
+Actual Specificity:  0.9523809523809523
+
+Overall Sensitivity:  2.872962962962963
+
+Overall Precision:  0.9285714285714286
+
+Ovrall F-measure:  3.598150446693407
+
+Ultimate Accuracy:--->  3.854646206308611
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  3.8123569023569024
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  5.182553673515491
+
+Ultimate Accuracy:--->  4.781116794543905
+
+Actual Specificity:  0.9
+
+Overall Sensitivity:  4.812356902356902
+
+Overall Precision:  0.782608695652174
+
+Ovrall F-measure:  6.528832678235892
+
+Ultimate Accuracy:--->  5.781116794543905
+
+Actual Specificity:  1.0
+
+Overall Sensitivity:  5.812356902356902
+
+Overall Precision:  1.0
+
+Ovrall F-measure:  8.23524852980291
+
+Ultimate Accuracy:--->  6.736999147485082
+
+Actual Specificity:  0.975
+
+Overall Sensitivity:  6.740928330928331
+
+Overall Precision:  0.9629629629629629
+
+Ovrall F-measure:  9.920439577038712
+
+Ultimate Accuracy:--->  7.722293265132141
+
+Actual Specificity:  0.9767441860465116
+
+Overall Sensitivity:  7.740928330928331
+
+Overall Precision:  0.9615384615384616
+
+Ovrall F-measure:  11.631035088794862
+
+Ultimate Accuracy:--->  8.707587382779199
+
+Actual Specificity:  0.9791666666666666
+
+Overall Sensitivity:  8.74092833092833
+
+Overall Precision:  0.9523809523809523
+
+Ovrall F-measure:  13.3486515199217
+
+Ultimate Accuracy:--->  9.663469735720374
+
+Actual Specificity:  0.9302325581395349
+
+Overall Sensitivity:  9.74092833092833
+
+Overall Precision:  0.8928571428571429
+
+Ovrall F-measure:  14.984429758963563

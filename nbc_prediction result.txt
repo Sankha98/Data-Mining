@@ -1,0 +1,305 @@
+1st Dataset(Haberman.csv):--->
+
+Ultimate Accuracy:--->  0.8064516129032258
+
+Specificity:  0.92
+
+Sensitivity:  0.3333333333333333
+
+Precision:  0.5
+
+F-measure:  0.4
+
+Ultimate Accuracy:--->  1.4838709677419355
+
+Specificity:  1.0
+
+Sensitivity:  0.5641025641025641
+
+Precision:  1.0
+
+F-measure:  1.1213114754098361
+
+Ultimate Accuracy:--->  2.258064516129032
+
+Specificity:  0.96
+
+Sensitivity:  0.5641025641025641
+
+Precision:  0.0
+
+F-measure:  1.1213114754098361
+
+Ultimate Accuracy:--->  2.8709677419354835
+
+Specificity:  1.0
+
+Sensitivity:  0.641025641025641
+
+Precision:  1.0
+
+F-measure:  1.9025614754098361
+
+Ultimate Accuracy:--->  3.548387096774193
+
+Specificity:  0.9130434782608695
+
+Sensitivity:  0.641025641025641
+
+Precision:  0.0
+
+F-measure:  1.9025614754098361
+
+Ultimate Accuracy:--->  4.32258064516129
+
+Specificity:  0.92
+
+Sensitivity:  0.8076923076923076
+
+Precision:  0.3333333333333333
+
+F-measure:  2.3744715877693867
+
+Ultimate Accuracy:--->  5.02258064516129
+
+Specificity:  0.95
+
+Sensitivity:  1.0076923076923077
+
+Precision:  0.6666666666666666
+
+F-measure:  3.176921817478422
+
+Ultimate Accuracy:--->  5.789247311827957
+
+Specificity:  0.9130434782608695
+
+Sensitivity:  1.2934065934065933
+
+Precision:  0.5
+
+F-measure:  3.898122797870579
+
+Ultimate Accuracy:--->  6.689247311827957
+
+Specificity:  1.0
+
+Sensitivity:  1.5434065934065933
+
+Precision:  1.0
+
+F-measure:  5.1117758546863055
+
+Ultimate Accuracy:--->  7.422580645161291
+
+Specificity:  0.8636363636363636
+
+Sensitivity:  1.9184065934065933
+
+Precision:  0.5
+
+F-measure:  5.905028155038458
+
+2nd Dataset(wine.csv):--->
+
+Ultimate Accuracy:--->  1.0
+
+Specificity:  1.0
+
+Sensitivity:  1.0
+
+Precision:  1.0
+
+F-measure:  1.0
+
+Ultimate Accuracy:--->  2.0
+
+Specificity:  1.0
+
+Sensitivity:  2.0
+
+Precision:  1.0
+
+F-measure:  2.333333333333333
+
+Ultimate Accuracy:--->  3.0
+
+Specificity:  1.0
+
+Sensitivity:  3.0
+
+Precision:  1.0
+
+F-measure:  3.833333333333333
+
+Ultimate Accuracy:--->  4.0
+
+Specificity:  1.0
+
+Sensitivity:  4.0
+
+Precision:  1.0
+
+F-measure:  5.433333333333334
+
+Ultimate Accuracy:--->  4.944444444444445
+
+Specificity:  0.8
+
+Sensitivity:  5.0
+
+Precision:  0.9166666666666666
+
+F-measure:  6.982629107981221
+
+Ultimate Accuracy:--->  5.944444444444445
+
+Specificity:  1.0
+
+Sensitivity:  6.0
+
+Precision:  1.0
+
+F-measure:  8.696914822266935
+
+Ultimate Accuracy:--->  6.944444444444445
+
+Specificity:  1.0
+
+Sensitivity:  7.0
+
+Precision:  1.0
+
+F-measure:  10.446914822266935
+
+Ultimate Accuracy:--->  7.944444444444445
+
+Specificity:  1.0
+
+Sensitivity:  8.0
+
+Precision:  1.0
+
+F-measure:  12.224692600044712
+
+Ultimate Accuracy:--->  8.826797385620916
+
+Specificity:  0.8888888888888888
+
+Sensitivity:  9.0
+
+Precision:  0.8
+
+F-measure:  13.694080355146752
+
+Ultimate Accuracy:--->  9.826797385620916
+
+Specificity:  1.0
+
+Sensitivity:  10.0
+
+Precision:  1.0
+
+F-measure:  15.51226217332857
+
+3rd Dataset(bcw.csv):--->
+
+Ultimate Accuracy:--->  0.9565217391304348
+
+Specificity:  0.9318181818181818
+
+Sensitivity:  1.0
+
+Precision:  0.8928571428571429
+
+F-measure:  0.9433962264150945
+
+Ultimate Accuracy:--->  1.927536231884058
+
+Specificity:  0.9795918367346939
+
+Sensitivity:  1.95
+
+Precision:  0.95
+
+F-measure:  2.220982433311646
+
+Ultimate Accuracy:--->  2.898550724637681
+
+Specificity:  0.9555555555555556
+
+Sensitivity:  2.95
+
+Precision:  0.9230769230769231
+
+F-measure:  3.6271393349998284
+
+Ultimate Accuracy:--->  3.839727195225916
+
+Specificity:  0.9318181818181818
+
+Sensitivity:  3.9083333333333337
+
+Precision:  0.8846153846153846
+
+F-measure:  5.069830253817536
+
+Ultimate Accuracy:--->  4.795609548167093
+
+Specificity:  0.9565217391304348
+
+Sensitivity:  4.862878787878788
+
+Precision:  0.9130434782608695
+
+F-measure:  6.607253909559822
+
+Ultimate Accuracy:--->  5.766197783461211
+
+Specificity:  0.9787234042553191
+
+Sensitivity:  5.815259740259741
+
+Precision:  0.9523809523809523
+
+F-measure:  8.243966867974923
+
+Ultimate Accuracy:--->  6.692668371696505
+
+Specificity:  0.9
+
+Sensitivity:  6.779545454545455
+
+Precision:  0.8709677419354839
+
+F-measure:  9.787592829854313
+
+Ultimate Accuracy:--->  7.663256606990623
+
+Specificity:  0.9777777777777777
+
+Sensitivity:  7.73606719367589
+
+Precision:  0.9565217391304348
+
+F-measure:  11.490127368948372
+
+Ultimate Accuracy:--->  8.63384484228474
+
+Specificity:  0.9555555555555556
+
+Sensitivity:  8.73606719367589
+
+Precision:  0.92
+
+F-measure:  13.154817901227531
+
+Ultimate Accuracy:--->  9.604433077578857
+
+Specificity:  0.9743589743589743
+
+Sensitivity:  9.7015844350552
+
+Precision:  0.9655172413793104
+
+F-measure:  14.91106759770064
